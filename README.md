@@ -96,6 +96,7 @@ Other open source projects that use Argo:
 * [Kedro](https://github.com/quantumblacklabs/kedro) is an open-source Python framework for creating reproducible, maintainable and modular data science code.
 * [kubechecks](https://github.com/zapier/kubechecks) is a tool to check what changes a pull-request will make to your ArgoCD applications, with reporting directly in the PR.
 * [kubefirst](https://github.com/kubefirst/kubefirst/) provides fully automated open source application delivery and infrastructure management GitOps platforms for Kubernetes.
+* [KubeStellar Console](https://github.com/kubestellar/console) is a multi-cluster Kubernetes dashboard with built-in Argo CD integration for visualizing application deployments, sync status, and rollout health across clusters.
 * [Kubeflow Katib](https://github.com/kubeflow/katib) is a Kubernetes-native project for automated machine learning (AutoML).
 * [Kubeflow Pipelines](https://github.com/kubeflow/pipelines) is dedicated to making deployments of machine learning workflows on Kubernetes simple, portable, and scalable with Kubeflow.
 * [Meshery](https://github.com/meshery/meshery) is the open source, cloud native manager that enables the design and management of all Kubernetes-based infrastructure and applications (multi-cloud). 
